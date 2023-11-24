@@ -1,5 +1,6 @@
 # Save-our-planet
 Scratch project for the topic "Save our planet". Participated in international coding competition IKCC on Sep 30 2023. 
+**Results**: 3.13
 To play the game and watch the animation here at: https://scratch.mit.edu/projects/888278330
 
 **All about the project:**
